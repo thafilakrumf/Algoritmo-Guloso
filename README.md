@@ -1,0 +1,6 @@
+# Algoritmo Guloso
+O Método Guloso é um dos algoritmos mais simples que pode ser aplicado a uma grande variedade de problemas, que na maioria possuem n entradas e é necessário obter um subconjunto que satisfaça alguma restrição, como no Problema da Mochila. Qualquer subconjunto que satisfaça esta restrição é chamado de solução viável. No Método Guloso construímos um algoritmo que trabalha em estágios, considerando uma entrada por vez. Em cada estágio é tomada uma decisão considerando se uma entrada particular é uma solução ótima. Isto é feito considerando as entradas em uma ordem determinada por um processo de seleção, que é baseado em alguma medida de otimização que pode ou não ser a função objetivo. Na maioria das vezes, porém, essas medidas de otimização resultarão em algoritmos que gerarão soluções sub-ótimas.
+
+
+## Algoritmo
+Desenvolver um algoritmo guloso que resolva o problema da mochila. Identificar o tamanho máximo que o algoritmo é capaz de resolver e calcular o tempo em segundos (minutos ou horas se necessário).
